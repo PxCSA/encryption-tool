@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # =======================================
-# Encryption Tool by SHIVAMxCSA
+# Encryption Tool by PxCSA
 # For educational purposes only
 # =======================================
 
